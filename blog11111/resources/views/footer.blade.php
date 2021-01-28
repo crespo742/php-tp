@@ -1,0 +1,1 @@
+<h2>Salam le footer</h2>
